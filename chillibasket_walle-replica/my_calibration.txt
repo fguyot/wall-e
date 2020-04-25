@@ -1,0 +1,7 @@
+int preset[][2] =  {{468,282},  // head rotation
+                    {545,268},  // neck top
+                    {220,500},  // neck bottom
+                    {475,230},  // eye right
+                    {270,440},  // eye left
+                    {370,235},  // arm left
+                    {288,420}}; // arm right
